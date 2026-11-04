@@ -17,3 +17,4 @@ wheels/
 # Local datasets and generated outputs
 /data/
 /outputs/
+/assets/
