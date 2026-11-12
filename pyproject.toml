@@ -9,6 +9,7 @@ authors = [
 requires-python = ">=3.11"
 dependencies = [
     "laspy>=2.7.0",
+    "matplotlib>=3.11.2",
     "open3d>=0.20.0",
     "pypatchworkpp>=1.4.1",
 ]
